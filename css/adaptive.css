@@ -1,0 +1,8 @@
+@media(min-width: 2560px) {
+    .smel1 {
+        justify-content: space-between;
+    }
+    .k1, .smel, #smal, #larg, .larg1, .poi{
+        margin: 0 700px 160px;
+    }
+}
